@@ -1,10 +1,16 @@
 # Hello there. 👋
 
-I'm a Python developer in training, focused on automation, data, and API projects.
+## 🚀 Technologies I'm studying and using:
 
-## Technologies I'm studying
-- Python 3
-- Flask
-- Requests
-- Web Scraping
-- REST APIs
+### 🐍 Python 3
+- Criação de scripts automatizados e utilitários do dia a dia
+- Manipulação de dados com listas, dicionários e funções
+- Uso de `.env` para segurança de variáveis sensíveis
+
+### 📦 Bibliotecas e APIs
+- **Flask** – criação de APIs RESTful
+- **Requests** – consumo de APIs HTTP
+- **openpyxl** – leitura e escrita de planilhas Excel
+- **reportlab** – geração de PDFs personalizados
+- **yagmail** – envio de e-mails com anexos
+- **dotenv** – segurança com variáveis de ambiente

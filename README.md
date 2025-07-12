@@ -6,6 +6,5 @@ I'm a Python developer in training, focused on automation, data, and API project
 - Python 3
 - Flask
 - Requests
-- Git/GitHub
 - Web Scraping
 - REST APIs
